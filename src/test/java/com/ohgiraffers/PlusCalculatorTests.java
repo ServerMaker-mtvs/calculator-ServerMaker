@@ -26,7 +26,7 @@ public class PlusCalculatorTests {
     @Test
     public void testTwoNumbersInHundred(){
         //given
-        int num1=10;
+        int num1=20;
         int num2=0;
         //when&then
 
